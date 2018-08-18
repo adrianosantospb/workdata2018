@@ -1,4 +1,5 @@
-# workdata2018
+# WorkData 2018
+
 Palestra entregue no WorkData - 2018 (https://workdata.congressodeti.com.br/)
 
 ### Palestre entitulada de: Mente aberta para os dados abertos
